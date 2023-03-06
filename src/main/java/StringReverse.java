@@ -1,6 +1,6 @@
 
 public class StringReverse {
-    /**
+    /*
      * Task: return the reverse of a string.
      * There are multiple good ways to solve this problem.
      *
